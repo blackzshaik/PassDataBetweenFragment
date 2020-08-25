@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragmet Data Example</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="p1">Meat</string>
+    <string name="p1_details">Meat – what type is entirely up to you. We would recommend skinless white meat such as turkey or chicken as these are considered the healthiest because of the low amount of saturated fat. If you fancy something redder, then try to choose lean cuts.</string>
+    <string name="p2">Rice</string>
+    <string name="p2_details">Rice – another great meal essential that will fill you up and bulk out your meal</string>
+    <string name="p3">Bread</string>
+    <string name="p3_details">Bread – great for sandwiches. To get more healthy fiber into your system, you recommend wholemeal or wholegrain varieties.</string>
+    <string name="p4">Milk</string>
+    <string name="p4_details">Milk – a breakfast essential if you have cereal for breakfast, if prefer your hot drinks a lighter shade of brown, or want to make a sauce. Vegans and the health conscious should check out milk alternatives like soy or almond.</string>
+    <string name="p5">Eggs</string>
+    <string name="p5_details">Eggs – these versatile little things are essential ingredients for a cake or can be made many different ways for a quick breakfast or lunch.</string>
+</resources>
